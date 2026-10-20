@@ -1,0 +1,24 @@
+tanggal,produk,jumlah,harga_satuan
+2026-01-03,Beras 5 kg,8,72000
+2026-01-04,Minyak Goreng 1 L,12,18000
+2026-01-07,Gula 1 kg,10,16000
+2026-01-09,Beras 5 kg,5,72000
+2026-01-12,Telur 1 kg,7,29000
+2026-01-15,Minyak Goreng 1 L,15,18000
+2026-02-02,Beras 5 kg,10,72000
+2026-02-05,Gula 1 kg,9,16000
+2026-02-08,Minyak Goreng 1 L,11,18000
+2026-02-10,Telur 1 kg,8,29000
+2026-02-14,Beras 5 kg,7,72000
+2026-02-18,Minyak Goreng 1 L,14,18000
+2026-03-01,Beras 5 kg,12,72000
+2026-03-03,Gula 1 kg,13,16000
+2026-03-07,Minyak Goreng 1 L,17,18000
+2026-03-11,Telur 1 kg,10,29000
+2026-03-15,Beras 5 kg,9,72000
+2026-03-19,Minyak Goreng 1 L,16,18000
+2026-03-19,Minyak Goreng 1 L,16,18000
+2026-03-22,,4,18000
+2026-03-25,Beras 5 kg,-2,72000
+2026-03-26,Gula 1 kg,6,
+not-a-date,Telur 1 kg,3,29000
